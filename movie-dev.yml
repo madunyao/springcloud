@@ -28,4 +28,4 @@ eureka:
 # 开启Hystrix
 feign:
   hystrix:
-    enabled: false
+    enabled: true
